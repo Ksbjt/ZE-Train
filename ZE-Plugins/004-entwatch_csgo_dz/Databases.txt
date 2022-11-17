@@ -1,0 +1,7 @@
+"EntWatch"
+    {
+        "driver"            "sqlite"
+        "host"              "localhost"
+        "database"          "entwatch-sqlite"
+        "user"              "root"
+    }

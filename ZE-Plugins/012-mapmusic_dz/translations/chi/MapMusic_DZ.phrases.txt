@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"MM Tag"
+	{
+		"chi"	"{lightblue}[{green}MapMusic{lightblue}]{default}"
+	}
+
+	"MM Tag Menu"
+	{
+		"chi"	"[Map Music]"
+	}
+	
+	"MM Cookie Menu"
+	{
+		"chi"	"地图音乐"
+	}
+
+	"MM Text Enable"
+	{
+		"chi"	"地图音乐 已经 {lightgreen}开启{default}."
+	}
+
+	"MM Text Disable"
+	{
+		"chi"	"地图音乐 已经 {red}关闭{default}."
+	}
+
+	"MM Text Volume"
+	{
+		"#format"	"{1:d}"
+
+		"chi"	"地图音乐 已经 {lightgreen}开启{default}. 音量:{lightgreen}{1}"
+	}
+
+	"MM Enabled"
+	{
+		"chi"	"已开启"
+	}
+
+	"MM Disabled"
+	{
+		"chi"	"已关闭"
+	}
+
+	"MM Menu Title"
+	{
+		"chi"	"地图音乐控制菜单"
+	}
+
+	"MM Menu AdjustDesc"
+	{
+		"chi"	"你可以调整地图音乐\n命令 !mapmusic 0~100"
+	}
+
+	"MM Menu Music"
+	{
+		"#format"	"{1:T}"
+
+		"chi"	"音乐: {1}"
+	}
+
+	"MM Menu Vol"
+	{
+		"#format"	"{1:d}"
+
+		"chi"	"音量:{1}"
+	}
+}

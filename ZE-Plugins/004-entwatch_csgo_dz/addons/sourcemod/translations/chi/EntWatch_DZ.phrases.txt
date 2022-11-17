@@ -1,0 +1,464 @@
+"Phrases"
+{
+	"EW_Tag"
+	{
+		"chi" 	"[EntWatch]"
+	}
+	"Welcome"
+	{
+		"chi" 	"当前地图支持EntWatch"
+	}
+	"Use"
+	{
+		"chi" 	"使用"
+	}
+	"Use First"
+	{
+		"chi" 	"used the first ability of"
+	}
+	"Use Second"
+	{
+		"chi" 	"used the second ability of"
+	}
+	"Pickup"
+	{
+		"chi" 	"已拿起"
+	}
+	"Drop"
+	{
+		"chi" 	"已掉落"
+	}
+	"Death"
+	{
+		"chi" 	"已死亡"
+	}
+	"Death and drop"
+	{
+		"chi" 	"已死亡并掉落"
+	}
+	"Disconnect"
+	{
+		"chi" 	"已退出"
+	}
+	"Disconnect and drop"
+	{
+		"chi" 	"disconnected and dropped"
+	}
+	"Enabled"
+	{
+		"chi" 	"是"
+	}
+	"Disabled"
+	{
+		"chi" 	"否"
+	}
+	"Hud"
+	{
+		"chi" 	"The HUD is now"
+	}
+	"Hud Position"
+	{
+		"chi" 	"HUD Position"
+	}
+	"Hud Color"
+	{
+		"chi" 	"HUD Color"
+	}
+	"Wrong"
+	{
+		"chi" 	"Wrong"
+	}
+	"Saved"
+	{
+		"chi" 	"Saved"
+	}
+	"Usage"
+	{
+		"chi" 	"Usage"
+	}
+	"Restricted"
+	{
+		"chi" 	"restricted"
+	}
+	"Unrestricted"
+	{
+		"chi" 	"unrestricted"
+	}
+	"Duration"
+	{
+		"chi" 	"Duration"
+	}
+	"EBan Duration for"
+	{
+		"chi" 	"EBan Duration for"
+	}
+	"EBan Reason for"
+	{
+		"chi" 	"EBan Reason for"
+	}
+	"Temporary"
+	{
+		"chi" 	"Temporary"
+	}
+	"Permanently"
+	{
+		"chi" 	"Permanently"
+	}
+	"For Minutes"
+	{
+		"#format"	"{1:i}"
+		"chi" 	"for {1} minutes"
+	}
+	"Issued"
+	{
+		"chi" 	"Issued"
+	}
+	"Reason"
+	{
+		"chi" 	"Reason"
+	}
+	"Currently Eban"
+	{
+		"chi" 	"Currently e-banned"
+	}
+	"Player"
+	{
+		"chi" 	"Player"
+	}
+	"Admin"
+	{
+		"chi" 	"Admin"
+	}
+	"No EBans"
+	{
+		"chi" 	"No EBans"
+	}
+	"No owner"
+	{
+		"chi" 	"No owner"
+	}
+	"No Receivers"
+	{
+		"chi" 	"No Receivers"
+	}
+	"No Players"
+	{
+		"chi" 	"No Players"
+	}
+	"Already EBanned"
+	{
+		"chi" 	"Already EBanned"
+	}
+	"Already UnEBanned"
+	{
+		"chi" 	"Already UnEBanned"
+	}
+	"Restricted By"
+	{
+		"chi" 	"restricted by"
+	}
+	"Invalid item name"
+	{
+		"chi" 	"Invalid item name"
+	}
+	"Has a Restrict"
+	{
+		"chi" 	"has a restrict"
+	}
+	"Transfered all items"
+	{
+		"chi" 	"transfered all items from"
+	}
+	"Transfered"
+	{
+		"chi" 	"transfered"
+	}
+	"Differs team"
+	{
+		"chi" 	"The receiver team differs from the target team"
+	}
+	"Already owns"
+	{
+		"chi" 	"The receiver already owns this item"
+	}
+	"Target has no items"
+	{
+		"chi" 	"Target has no items"
+	}
+	"EW to"
+	{
+		"chi" 	"to"
+	}
+	"Item targets"
+	{
+		"chi" 	"Item targets"
+	}
+	"Item to Spawn"
+	{
+		"chi" 	"Item to Spawn"
+	}
+	"Player is not valid anymore"
+	{
+		"chi" 	"Player is not valid anymore"
+	}
+	"Receiver is not valid anymore"
+	{
+		"chi" 	"Receiver is not valid anymore"
+	}
+	"The player must be in one of the teams"
+	{
+		"chi" 	"The player must be in one of the teams"
+	}
+	"PT configuration not found"
+	{
+		"chi" 	"The item has no corresponding configuration"
+	}
+	"PT configuration Error"
+	{
+		"chi" 	"Point_Template not found"
+	}
+	"Item not available"
+	{
+		"chi" 	"Item is no longer available"
+	}
+	"EntWatch Commands"
+	{
+		"chi" 	"EntWatch Commands"
+	}
+	"EntWatch Commands Title"
+	{
+		"chi" 	"[EntWatch] Commands"
+	}
+	"List of Items"
+	{
+		"chi" 	"List of Items"
+	}
+	"EBan a Player"
+	{
+		"chi" 	"EBan a Player"
+	}
+	"List of EBan"
+	{
+		"chi" 	"List of EBan"
+	}
+	"Spawn an Item"
+	{
+		"chi" 	"Spawn an Item"
+	}
+	"Restrict Player"
+	{
+		"chi" 	"Restrict player"
+	}
+	"EBan Info"
+	{
+		"chi" 	"EBan Info"
+	}
+	"Transfer Item"
+	{
+		"chi" 	"Transfer Item"
+	}
+	"UnEBan a Player"
+	{
+		"chi" 	"UnEBan a Player"
+	}
+	"Receiver of the Item"
+	{
+		"chi" 	"Receiver of the Item"
+	}
+	"Item Info"
+	{
+		"chi" 	"Item Info"
+	}
+	"Owner"
+	{
+		"chi" 	"Owner"
+	}
+	"Mode"
+	{
+		"chi" 	"Mode"
+	}
+	"CoolDown"
+	{
+		"chi" 	"CoolDown"
+	}
+	"Max Uses"
+	{
+		"chi" 	"Max Uses"
+	}
+	"Mode Default"
+	{
+		"chi" 	"Spam protection only"
+	}
+	"Mode 2"
+	{
+		"chi" 	"Cooldowns"
+	}
+	"Mode 3"
+	{
+		"chi" 	"Limited uses"
+	}
+	"Mode 4"
+	{
+		"chi" 	"Limited uses with cooldowns"
+	}
+	"Mode 5"
+	{
+		"chi" 	"Cooldowns after multiple uses"
+	}
+	"Minutes"
+	{
+		"chi" 	"Minutes"
+	}
+	"Hour"
+	{
+		"chi" 	"Hour"
+	}
+	"Day"
+	{
+		"chi" 	"Day"
+	}
+	"Week"
+	{
+		"chi" 	"Week"
+	}
+	"Month"
+	{
+		"chi" 	"Month"
+	}
+	"Item misuse"
+	{
+		"chi" 	"Item misuse"
+	}
+	"Trolling on purpose"
+	{
+		"chi" 	"Trolling on purpose"
+	}
+	"Throwing item away"
+	{
+		"chi" 	"Throwing item away"
+	}
+	"Not using an item"
+	{
+		"chi" 	"Not using an item"
+	}
+	"Trimming team"
+	{
+		"chi" 	"Trimming team"
+	}
+	"Spamming an item"
+	{
+		"chi" 	"Spamming an item"
+	}
+	"Not listening to leader"
+	{
+		"chi" 	"Not listening to leader"
+	}
+	"Other"
+	{
+		"chi" 	"Other"
+	}
+	"Expires"
+	{
+		"chi" 	"Expires"
+	}
+	"On Map Change"
+	{
+		"chi" 	"On Map Change"
+	}
+	"Never"
+	{
+		"chi" 	"Never"
+	}
+	"Spawn Item"
+	{
+		"chi" 	"spawn item"
+	}
+	"On Player"
+	{
+		"chi" 	"on player"
+	}
+	"List to Spawn"
+	{
+		"chi" 	"List to Spawn"
+	}
+	"Strip Weapon"
+	{
+		"chi" 	"Strip Weapon"
+	}
+	"Not Strip Weapon"
+	{
+		"chi" 	"Not Strip Weapon"
+	}
+	"Recipient of a New Item"
+	{
+		"chi" 	"Recipient of a New Item"
+	}
+	"No Items for Spawn"
+	{
+		"chi" 	"No Items for Spawn"
+	}
+	"Is not restricted"
+	{
+		"chi" 	"is not restricted"
+	}
+	"Status restricted"
+	{
+		"chi" 	"You are currently restricted"
+	}
+	"Status unrestricted"
+	{
+		"chi" 	"You are currently unrestricted"
+	}
+	"Default"
+	{
+		"chi" 	"Default"
+	}
+	"Hud Names"
+	{
+		"chi" 	"Names in HUD are"
+	}
+	"Offline EBan"
+	{
+		"chi" 	"Offine EBan"
+	}
+	"Offline Restricted"
+	{
+		"chi" 	"offline restricted"
+	}
+	"List of Disconnected Players"
+	{
+		"chi" 	"List of Disconnected Players"
+	}
+	"Minutes Ago"
+	{
+		"chi" 	"minutes ago"
+	}
+	"Info Offline Player"
+	{
+		"chi" 	"Info Offline Player"
+	}
+	"Came out"
+	{
+		"chi" 	"Came out"
+	}
+	"Last Item"
+	{
+		"chi" 	"Last Item"
+	}
+	"Not have permission pEBan"
+	{
+		"chi" 	"You do not have permission to permanently EBan"
+	}
+	"Not have permission lEBan"
+	{
+		"chi" 	"You do not have permission to EBan longer than 12 hours"
+	}
+	"Not have permission rEBan"
+	{
+		"chi" 	"You do not have permission to remove permanent EBans"
+	}
+	"Use Priority"
+	{
+		"chi" 	"Force use function"
+	}
+}
