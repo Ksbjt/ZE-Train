@@ -52,7 +52,7 @@
 
 ------
 
-### 注：Stripper 未经允许 请勿转载
+### 注：Stripper 未经允许 请勿转载 训练stp暂不公开
 
 ##### 下载：[①](https://www.bailopan.net/stripper/snapshots/1.2/)
 
