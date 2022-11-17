@@ -14,7 +14,7 @@
 
 ##### 以下为开水不加糖收集的ZE公开插件，`私有插件`和`部分插件`暂不公开
 
-| Name                                                         | Translations     | Cvar           | From                                                         |
+| Name                                                         | Description      | Cvar           | From                                                         |
 | ------------------------------------------------------------ | ---------------- | -------------- | ------------------------------------------------------------ |
 | [001-adminroomfinder_v1_0_old](https://github.com/Ksbjt/ZE-Train/tree/main/ZE-Plugins/001-adminroomfinder_v1_0_old) | 查找调关房       | `!adminroom`   | [⭐](https://github.com/IT-KiLLER/CSGO-Admin-Room-Finder)     |
 | [002-sm_buycommands_redux](https://github.com/Ksbjt/ZE-Train/tree/main/ZE-Plugins/002-sm_buycommands_redux) | 快捷买枪         | `example !mp9` | 无                                                           |
