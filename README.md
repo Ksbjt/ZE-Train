@@ -2,7 +2,7 @@
 
 ------
 
-### SourceMod+Metamod
+### SourceMod+Metamod+VDF
 
 ##### Sourcemod [稳定版](https://www.sourcemod.net/downloads.php?branch=stable) [开发版](https://www.sourcemod.net/downloads.php?branch=dev)
 
